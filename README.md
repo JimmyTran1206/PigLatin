@@ -1,7 +1,7 @@
 # PigLatin
 ## Description
----
-thios is a simple program converting a sentence or a word of user's input into Pig Latin according to the following rule:
+
+This is a simple program converting a sentence or a word of user's input into Pig Latin according to the following rule:
 Most words in Pig Latin end in "ay." Use the rules below to translate normal English into Pig Latin.
 
 * If a word starts with one or more consonants, move those consonants to the end of the word and add "ay."
